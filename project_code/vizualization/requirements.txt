@@ -1,0 +1,9 @@
+shiny
+pandas
+pymongo
+matplotlib
+seaborn
+rsconnect-python
+uvicorn
+jinja2
+plotly
